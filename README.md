@@ -11,5 +11,7 @@ The motivation of this project was to make D-REX iterative by extending the gene
 
 Of these approaches, the multi-BC approach was demonstrated to achieve consistently higher returns than both behavioral cloning and D-REX.
 
+This project was built upon the source code for D-REX, available at https://github.com/dsbrown1331/CoRL2019-DREX. Changes to the code are marked by sections with comments reading `############## New for iD-Rex ################## `.
+
 # References
 D. S. Brown, W. Goo, and S. Niekum. Better-than-demonstrator imitation learning via automatically-ranked demonstrations. In L. P. Kaelbling, D. Kragic, and K. Sugiura, editors, Proceedings of the Conference on Robot Learning, volume 100 of Proceedings of Machine Learning Research, pages 330–359. PMLR, 30 Oct–01 Nov 2020. URL https://proceedings.mlr.press/v100/brown20a.html.
